@@ -2,8 +2,8 @@
 name: "P.S.Y"
 title: "D.D.P"
 description: "Bienvenue a D.D.P Blog!"
-logo: 'assets/images/ShefShaoen.jpg'
-favicon: 'assets/images/Fez.jpg'
+logo: 'assets/ShefShaoen.jpg'
+favicon: 'assets/Fez.jpg'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
