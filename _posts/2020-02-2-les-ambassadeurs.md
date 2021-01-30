@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페즈에서의 잊을 수 없던 기억"
-author: SangYound Park
+author: SangYoung Park
 categories: [ Lifestyle ]
 tags: [ Morocco ]
 image: assets/Fez.jpg
