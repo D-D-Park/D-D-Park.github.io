@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "French Wine has to compete with many new world wines"
+title:  "모츠나베와 함께"
 author: SangYoung Park
 categories: [ Lifestyle ]
 tags: [France]
-date:
-location:
-description:
-image:
+date:2021-01-27 18:00:00
+location:Gangneung
+description:모츠나베
+image:'assets/모츠나베.jpeg'
 ---
 
-
+오랜만에 모츠나베를 먹으러 갔다. 이 맛에 강릉 테츠를 간다.
