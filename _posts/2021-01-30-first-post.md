@@ -2,11 +2,7 @@
 title: "github.io 블로그를 시작합니다!"
 excerpt : "github.io가 시작됩니다~"
 
-categories:
-  - Home
-tags:
-  - Home
-  last-modified-at: 2021-01-30T13:48:00-01:00
+last-modified-at: 2021-01-30T13:48:00-01:00
 ---
 
 GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다.
