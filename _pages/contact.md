@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
-comments: false
+comments: True
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    

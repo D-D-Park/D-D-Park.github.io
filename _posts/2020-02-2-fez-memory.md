@@ -6,6 +6,7 @@ categories: [ Lifestyle ]
 tags: [ Morocco ]
 comments : true
 image: assets/Fez.jpg
+
 ---
 
 페즈는 사람 냄새가 나는 도시였다. 
