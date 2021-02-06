@@ -1,5 +1,5 @@
 ---
-layout: categories
-title: Github Blog Customizing
+layout: Morocco
+title: Morocco
 permalink: /githubblog
 ---
